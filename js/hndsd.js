@@ -1,0 +1,1 @@
+﻿var aTl=[['CreatingDestations.html','Creating%20Destations']];var oWl=['rights',[[0,1]],'creating',[[0,1]],'dates',[[0,1]],'will',[[0,1]],'reserved',[[0,1]],'create',[[0,1]],'cloud',[[0,1]],'destations',[[0,1]],'authors',[[0,1]],'this',[[0,1]],'that',[[0,1]],'destination',[[0,1]],'copyright',[[0,1]],'page',[[0,1]],'the',[[0,1]],'all',[[0,1]]];window.bSearchDataLoaded=true;
